@@ -1,4 +1,4 @@
-package nyc.c4q.josegonzalez.easteregghunt;
+package nyc.c4q.josegonzalez.easteregghunt.model;
 
 import java.util.Calendar;
 
